@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c78370f-71e5-4d19-927e-f5fb21544836" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/UrlDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/UrlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/UrlReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c78370f-71e5-4d19-927e-f5fb21544836" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +27,7 @@
       <file leaf-file-name="UrlDownloader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/UrlDownloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="612">
               <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,7 +172,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5912017" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32403433" />
       <window_info id="Capture Tool" />
@@ -223,7 +218,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sanderhelleso/imageDownloader/UrlDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="612">
           <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
