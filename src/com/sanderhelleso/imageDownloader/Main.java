@@ -1,8 +1,12 @@
 package com.sanderhelleso.imageDownloader;
 
-public class Main {
+import java.io.IOException;
 
-    public static void main(String[] args) {
+public class Main extends UrlReader {
+
+    public static void main(String[] args) throws IOException {
 	// write your code here
+        String data = UrlReader.readStringFromURL("https://no.wikipedia.org/wiki/Norges_kommuner");
+        System.out.println(data);
     }
 }
